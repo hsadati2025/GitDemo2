@@ -10,6 +10,8 @@ public class ParentHs {
 		System.out.println("run me first");
 		System.out.println("run me first2");
 		System.out.println("run me first3");
+		System.out.println("run me first4");
+		System.out.println("run me first5");
 	}
 	
 	@AfterMethod
