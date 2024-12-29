@@ -8,6 +8,8 @@ public class ParentHs {
 	public void beforeRun()
 	{
 		System.out.println("run me first");
+		System.out.println("run me first2");
+		System.out.println("run me first3");
 	}
 	
 	@AfterMethod
